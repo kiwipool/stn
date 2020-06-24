@@ -2,5 +2,5 @@
 "name": "Truffière by Kiwipool",
 "description": "trufl test description",
 "ticker": "TRUFL",
-"homepage": "https://github.com/kiwipool/testpool1/blob/master/trufl.json"
+"homepage": "https://raw.githubusercontent.com/kiwipool/testpool1/master/trufl.json"
 }
