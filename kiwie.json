@@ -39,8 +39,9 @@
     "when-satured-then-recommend": {
         "0": "921dc3fc11681ad9ccde08c9bc23041808f4b7e8ba231be557db8ab5",
         "1": "2523d71a1bd6376804e0bace048289a63455eb6340db81e616a11f9c",
-        "2": "f059ed9ef469a045d29c0f48799fb6cab08c0abbc0fd1f736a5fced5"
-        
+        "2": "f059ed9ef469a045d29c0f48799fb6cab08c0abbc0fd1f736a5fced5",
+        "3": "e00ff546b17eb7ed726411edc74eccdad9d176d0d338c21a3d8daf34",
+        "4": "061ae3f2d469737fb6f8c10aad70e7d02e37f8dd8d2a41dbbb6b72f0"        
     },
     "telegram-admin-handle": {
         "0": "kiwipool"
