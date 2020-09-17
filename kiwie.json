@@ -38,7 +38,9 @@
     },
     "when-satured-then-recommend": {
         "0": "921dc3fc11681ad9ccde08c9bc23041808f4b7e8ba231be557db8ab5",
-        "1": "2523d71a1bd6376804e0bace048289a63455eb6340db81e616a11f9c"
+        "1": "2523d71a1bd6376804e0bace048289a63455eb6340db81e616a11f9c",
+        "2": "f059ed9ef469a045d29c0f48799fb6cab08c0abbc0fd1f736a5fced5"
+        
     },
     "telegram-admin-handle": {
         "0": "kiwipool"
