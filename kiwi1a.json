@@ -27,7 +27,8 @@
         "about": {
             "me": "The Kiwpool Staking team is led my me, Matticus, an Entrepreneur with 20+ years IT Experience. Kiwipool Staking has operated since week one of #Cardano #ITN.",
             "server": "Proudly run on Baremetal backed by Cloud. Fibre WAN with Enterprize-grade Network Equipment backed up by multi-UPS. 24/7 Monitoring & Alerting",
-            "company": "Together, WE are Kiwipool Staking"
+            "company": "Together, WE are Kiwipool Staking",
+            "adapools_verify": "b1540dcf71e8451addc86065ba864400"
         },
         "rss": ""
     },
